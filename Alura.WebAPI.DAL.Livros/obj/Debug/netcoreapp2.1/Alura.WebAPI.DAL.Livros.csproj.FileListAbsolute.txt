@@ -1,0 +1,12 @@
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.deps.json
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csprojAssemblyReference.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfo.cs
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CopyComplete
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET-apiREST\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
